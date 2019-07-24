@@ -1,7 +1,9 @@
 head {
     text-align: center;
+}
+h1 {
+    text-align: center;
     color: indigo;
-
 }
 body {
     background-color: azure;
